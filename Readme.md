@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RestoreLayoutWithOverlappedOptions/Form1.cs) (VB: [Form1.vb](./VB/RestoreLayoutWithOverlappedOptions/Form1.vb))
+* [Program.cs](./CS/RestoreLayoutWithOverlappedOptions/Program.cs) (VB: [Program.vb](./VB/RestoreLayoutWithOverlappedOptions/Program.vb))
+<!-- default file list end -->
 # How to update REPX file for correct working after removing obsolete properties
 
 
